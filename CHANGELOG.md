@@ -1,5 +1,12 @@
 # Changelog
 
+## [13.5.4](https://github.com/LazyVim/LazyVim/compare/v13.5.3...v13.5.4) (2024-11-22)
+
+
+### Bug Fixes
+
+* **snacks:** remove lazygit requirement for git browse/blame keymaps ([#4869](https://github.com/LazyVim/LazyVim/issues/4869)) ([2c37492](https://github.com/LazyVim/LazyVim/commit/2c37492461bf6af09a3e940f8b3ea0a123608bfd))
+
 ## [13.5.3](https://github.com/LazyVim/LazyVim/compare/v13.5.2...v13.5.3) (2024-11-22)
 
 
